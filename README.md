@@ -1,3 +1,2 @@
-# Raldi-Crackhouse_20.28-Mod_menu
-this is a raldi crackhouse verison is 20.28 aslo it,s has mod menu will be displayed on your screen the Mod menu is from JokerModZ btw i am working on it
-NOTE:this has been tested on 20.29 and 20.28 which the mod menu in 20.29 mod menu was not displayed only works on 20.28 or lower this project is coming soon
+
+Raldi's Crackhouse - Mod Menu ProjectA custom project for Baldi's Crackhouse featuring an on-screen mod menu.⚠️ Important Status Note: This project is currently under development and is coming soon.📌 FeaturesOn-Screen Mod Menu: Features an interactive menu built directly into the game screen.Menu Credits: The integrated mod menu was created by JokerModZ.🎮 Compatibility & TestingPlease check your game version before installing.Version 20.28 (Recommended): Fully tested. The mod menu displays and functions perfectly.Version 20.29 (Not Supported): Tested. The mod menu does not display and will not work.Older Versions: Works on version 20.28 or lower.⚖️ DisclaimerI do not own the mod menu used in this project. All credits and rights for the mod menu go directly to the original developer, JokerModZ.
